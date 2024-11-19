@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../.vs"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "Logo_upload"
+		},
+		{
+			"path": "Video_upload"
+		},
+		{
+			"path": "profile_upload"
+		},
+		{
+			"path": "Notes_upload"
+		},
+		{
+			"path": "web"
+		},
+		{
+			"path": "web/css"
+		},
+		{
+			"path": "web/images"
+		},
+		{
+			"path": "web/js"
+		}
+	],
+	"settings": {}
+}
